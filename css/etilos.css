@@ -1,0 +1,112 @@
+body {
+    margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #d4d3d3;
+}
+
+#geral {
+    padding: 50px 300px;
+    display: flex;
+    text-align: center;
+}
+
+#foto-cel img {
+    width: 400px;
+    margin-right: 20px;
+}
+
+#insta {
+    background-color: white;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+
+
+}
+
+.logo-insta {
+    padding: 20px 0px 0px 0px;
+    width: 20px;
+    text-align: center;
+}
+
+#insta img {
+    width: 200px;
+}
+
+#insta a {
+    text-decoration: none;
+    text-align: center;
+}
+
+#botao {
+    background-color: rgb(76, 76, 250);
+    width: 300px;
+    height: 45px;
+    color: white;
+    font-size: 17px;
+    border-radius: 15px;
+    border: none;
+}
+
+#contas {
+    background-color: white;
+    text-align: center;
+    padding: 1px 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+.pergunta {
+    color: rgb(154, 152, 152);
+}
+
+#contas a {
+    text-decoration: none;
+}
+
+#final {
+    background-color: white;
+    text-align: center;
+    padding-top: 1px;
+}
+
+#final img {
+    width: 130px;
+}
+
+#cor {
+    color: rgb(76, 76, 250);
+}
+
+#ou {
+    color: rgb(154, 152, 152);
+}
+
+#sem-borda {
+    border: none;
+
+}
+
+
+#color {
+    background-color: rgb(191, 191, 191);
+    width: 300px;
+    height: 35px;
+    color: white;
+    font-size: 17px;
+    border: none;
+    padding: 5px;
+}
+
+#entrar {
+    background-color:  rgb(76, 76, 250);
+    width: 300px;
+    height: 35px;
+    color: white;
+    font-size: 17px;
+    border-radius: 15px;
+    border: none;
+    padding: 5px;
+}
